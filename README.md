@@ -68,5 +68,5 @@ RegisterNumber: 212224220047
 **TRUTH TABLE**
 ![image](https://github.com/user-attachments/assets/76a4b024-e721-4e1c-90e7-81658b2ab7c7)
 
-**RESULTS**
+**RESULTS** 
 4 bit synchronous up counter and validate functionality.
